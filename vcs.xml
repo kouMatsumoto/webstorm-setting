@@ -6,6 +6,10 @@
           <option name="url" value="https://tbzone.backlog.jp/git/VGS_2/web_app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kouMatsumoto/min-shibu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\matsu\WebstormProjects" />
