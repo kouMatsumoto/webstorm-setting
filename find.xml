@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="For search scss" />
-    <option name="defaultScopeName" value="For search scss" />
-    <option name="SEARCH_SCOPE" value="For search scss" />
+    <option name="customScope" value="pug &amp; stylus" />
+    <option name="defaultScopeName" value="pug &amp; stylus" />
+    <option name="SEARCH_SCOPE" value="pug &amp; stylus" />
   </component>
 </application>
