@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="pug &amp; stylus" />
-    <option name="defaultScopeName" value="pug &amp; stylus" />
-    <option name="SEARCH_SCOPE" value="pug &amp; stylus" />
+    <option name="customScope" value="pug and stylus" />
+    <option name="defaultScopeName" value="pug and stylus" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="pug and stylus" />
   </component>
 </application>
