@@ -4,7 +4,5 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="c" value="console.log('', val);" description="console.log()" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="c" value="console.log('', val);" description="console.log()" toReformat="false" toShortenFQNames="true" />
 </templateSet>
