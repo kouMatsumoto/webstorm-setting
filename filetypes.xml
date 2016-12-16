@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".styleguide" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping pattern=".stylintrc" type="TSLint" />
     </extensionMap>
   </component>
