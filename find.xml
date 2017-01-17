@@ -1,11 +1,25 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="pug and stylus" />
-    <option name="defaultScopeName" value="pug and stylus" />
+    <option name="customScope" value="not-external-modules" />
+    <option name="defaultScopeName" value="not-external-modules" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="pug and stylus" />
+    <option name="SEARCH_SCOPE" value="not-external-modules" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.scss,*.pug,*.ts</mask>
+    </recentFileMasks>
   </component>
 </application>
