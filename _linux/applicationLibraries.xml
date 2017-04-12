@@ -740,6 +740,18 @@
         <root url="file:///var/lib/gems/2.3.0/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
+    <library name="gmo (v0.3.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/gmo-0.3.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/gmo-0.3.0/autotest" />
+        <root url="file:///var/lib/gems/2.3.0/gems/gmo-0.3.0/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/gmo-0.3.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/gmo-0.3.0/autotest" />
+        <root url="file:///var/lib/gems/2.3.0/gems/gmo-0.3.0/fixtures" />
+      </SOURCES>
+    </library>
     <library name="haml (v4.0.7, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/haml-4.0.7/bin" />
