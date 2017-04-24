@@ -18,6 +18,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="rake" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
