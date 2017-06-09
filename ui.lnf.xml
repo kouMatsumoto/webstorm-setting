@@ -1,6 +1,8 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_FILES" value="false" />
+  </component>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Meiryo UI" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
   </component>
 </application>
