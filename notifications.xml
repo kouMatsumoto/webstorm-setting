@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Dart Support" shouldLog="false" />
+    <notification groupId="File Watchers" shouldLog="false" />
+    <notification groupId="MeteorProject" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
