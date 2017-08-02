@@ -4,6 +4,7 @@
       <mapping pattern="index" type="HTML" />
       <mapping pattern="rss" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
