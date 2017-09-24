@@ -34,8 +34,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="kou.matsumoto.jp@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kouMatsumoto/qmk_firmware.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\matsu\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
 </application>
