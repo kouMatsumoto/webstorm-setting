@@ -58,6 +58,10 @@
           <option name="url" value="kou_matsumoto@bitbucket.org:bitbank/bittrade-app-hosting-files.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kouMatsumoto/who-use-angular-in-japan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
