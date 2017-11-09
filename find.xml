@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.component.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -23,6 +24,11 @@
       <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.com</mask>
+      <mask>*.compo</mask>
+      <mask>*.component</mask>
+      <mask>*.component.</mask>
+      <mask>*.component.ts</mask>
     </recentFileMasks>
   </component>
 </application>
