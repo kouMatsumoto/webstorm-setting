@@ -7,5 +7,27 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.ht</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*.com</mask>
+      <mask>*.compo</mask>
+      <mask>*.component</mask>
+      <mask>*.component.</mask>
+      <mask>*.component.ts</mask>
+    </recentFileMasks>
   </component>
 </application>
