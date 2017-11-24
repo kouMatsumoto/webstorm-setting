@@ -1,24 +1,41 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
+      <mask>-pa</mask>
+      <mask>-page</mask>
+      <mask>-page.</mask>
+      <mask>-page.com</mask>
+      <mask>-page.compo</mask>
+      <mask>-page.compone</mask>
+      <mask>-page.component</mask>
+      <mask>-page.component.</mask>
+      <mask>*-page.component.ts</mask>
+      <mask>-page.component.ts</mask>
+      <mask>page.component.ts</mask>
+      <mask>age.component.ts</mask>
+      <mask>ge.component.ts</mask>
+      <mask>e.component.ts</mask>
+      <mask>.component.ts</mask>
+      <mask>component.ts</mask>
+      <mask>*component.ts</mask>
+      <mask>**component.ts</mask>
+      <mask>**/component.ts</mask>
+      <mask>**/pacomponent.ts</mask>
+      <mask>**/page/component.ts</mask>
+      <mask>**/pagecomponent.ts</mask>
+      <mask>**/pages?component.ts</mask>
+      <mask>**/pagescomponent.ts</mask>
+      <mask>**/pages/component.ts</mask>
+      <mask>**/pages/*component.ts</mask>
+      <mask>**/pages/**component.ts</mask>
+      <mask>**/pages/**/component.ts</mask>
+      <mask>**/pages/**/*component.ts</mask>
+      <mask>**/pages/**/*.component.ts</mask>
     </recentFileMasks>
   </component>
 </application>
