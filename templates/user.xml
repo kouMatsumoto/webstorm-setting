@@ -1,3 +1,8 @@
 <templateSet group="user">
-  <template name="cns" value="console.log('data', data);" description="console.log" toReformat="false" toShortenFQNames="true" />
+  <template name="cn" value="console.log('$var$', $var$);" description="Insert `console.log`" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
