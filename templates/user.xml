@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="cns" value="console.log('data', data);" description="console.log" toReformat="false" toShortenFQNames="true" />
+</templateSet>
