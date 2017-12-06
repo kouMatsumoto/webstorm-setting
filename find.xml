@@ -5,20 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="**.service.ts" />
     <recentFileMasks>
-      <mask>-pa</mask>
-      <mask>-page</mask>
-      <mask>-page.</mask>
-      <mask>-page.com</mask>
-      <mask>-page.compo</mask>
-      <mask>-page.compone</mask>
-      <mask>-page.component</mask>
-      <mask>-page.component.</mask>
-      <mask>*-page.component.ts</mask>
-      <mask>-page.component.ts</mask>
-      <mask>page.component.ts</mask>
-      <mask>age.component.ts</mask>
-      <mask>ge.component.ts</mask>
       <mask>e.component.ts</mask>
       <mask>.component.ts</mask>
       <mask>component.ts</mask>
@@ -36,6 +24,19 @@
       <mask>**/pages/**/component.ts</mask>
       <mask>**/pages/**/*component.ts</mask>
       <mask>**/pages/**/*.component.ts</mask>
+      <mask>.</mask>
+      <mask>.ser</mask>
+      <mask>.serv</mask>
+      <mask>.servi</mask>
+      <mask>.servic</mask>
+      <mask>.service</mask>
+      <mask>.service.</mask>
+      <mask>.service.ts</mask>
+      <mask>*.service.ts</mask>
+      <mask>/**/*.service.ts</mask>
+      <mask>**/*.service.ts</mask>
+      <mask>**/.service.ts</mask>
+      <mask>**.service.ts</mask>
     </recentFileMasks>
   </component>
 </application>
