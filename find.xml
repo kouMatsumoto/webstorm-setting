@@ -10,19 +10,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>e.component.ts</mask>
-      <mask>.component.ts</mask>
-      <mask>component.ts</mask>
-      <mask>*component.ts</mask>
-      <mask>**component.ts</mask>
-      <mask>**/component.ts</mask>
-      <mask>**/pacomponent.ts</mask>
-      <mask>**/page/component.ts</mask>
-      <mask>**/pagecomponent.ts</mask>
-      <mask>**/pages?component.ts</mask>
-      <mask>**/pagescomponent.ts</mask>
-      <mask>**/pages/component.ts</mask>
-      <mask>**/pages/*component.ts</mask>
       <mask>**/pages/**component.ts</mask>
       <mask>**/pages/**/component.ts</mask>
       <mask>**/pages/**/*component.ts</mask>
@@ -40,6 +27,19 @@
       <mask>**/*.service.ts</mask>
       <mask>**/.service.ts</mask>
       <mask>**.service.ts</mask>
+      <mask>**.service.t</mask>
+      <mask>**.servi</mask>
+      <mask>**.serv</mask>
+      <mask>**.ser</mask>
+      <mask>**.se</mask>
+      <mask>**.css</mask>
+      <mask>**.cs</mask>
+      <mask>**.c</mask>
+      <mask>**.</mask>
+      <mask>**.s</mask>
+      <mask>**.sc</mask>
+      <mask>**.scs</mask>
+      <mask>**.scss</mask>
     </recentFileMasks>
   </component>
 </application>
