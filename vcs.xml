@@ -111,23 +111,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@bitbank.github.com:bitbankinc/broker-trade-application.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:bitbankinc/broker-trade-application.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com-bb:bitbankinc/broker-trade-application.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:socketio/socket.io.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:bitbankinc/broker-app-stream-public.git" />
+          <option name="url" value="git@github.com:ReactiveX/rxjs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
