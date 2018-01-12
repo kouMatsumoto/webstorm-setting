@@ -6,25 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>**/pages/**component.ts</mask>
-      <mask>**/pages/**/component.ts</mask>
-      <mask>**/pages/**/*component.ts</mask>
-      <mask>**/pages/**/*.component.ts</mask>
-      <mask>.</mask>
-      <mask>.ser</mask>
-      <mask>.serv</mask>
-      <mask>.servi</mask>
-      <mask>.servic</mask>
-      <mask>.service</mask>
-      <mask>.service.</mask>
-      <mask>.service.ts</mask>
-      <mask>*.service.ts</mask>
-      <mask>/**/*.service.ts</mask>
-      <mask>**/*.service.ts</mask>
-      <mask>**/.service.ts</mask>
-      <mask>**.service.ts</mask>
-      <mask>**.service.t</mask>
-      <mask>**.servi</mask>
       <mask>**.serv</mask>
       <mask>**.ser</mask>
       <mask>**.se</mask>
@@ -36,6 +17,25 @@
       <mask>**.sc</mask>
       <mask>**.scs</mask>
       <mask>**.scss</mask>
+      <mask>rou</mask>
+      <mask>routei</mask>
+      <mask>route</mask>
+      <mask>rout</mask>
+      <mask>routi</mask>
+      <mask>routin</mask>
+      <mask>routing</mask>
+      <mask>routing.</mask>
+      <mask>routing.mo</mask>
+      <mask>routing.modu</mask>
+      <mask>routing.modul</mask>
+      <mask>routing.module</mask>
+      <mask>routing.module.</mask>
+      <mask>routing.module.ts</mask>
+      <mask>**/*/routing.module.ts</mask>
+      <mask>**/*routing.module.ts</mask>
+      <mask>**/routing.module.ts</mask>
+      <mask>**routing.module.ts</mask>
+      <mask>*routing.module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
