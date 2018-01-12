@@ -5,17 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*page.component.html" />
     <recentFileMasks>
-      <mask>**.c</mask>
-      <mask>**.</mask>
-      <mask>**.s</mask>
-      <mask>**.sc</mask>
-      <mask>**.scs</mask>
-      <mask>**.scss</mask>
-      <mask>rou</mask>
-      <mask>routei</mask>
-      <mask>route</mask>
       <mask>rout</mask>
       <mask>routi</mask>
       <mask>routin</mask>
@@ -37,6 +28,15 @@
       <mask>html</mask>
       <mask>*html</mask>
       <mask>*.html</mask>
+      <mask>*p.html</mask>
+      <mask>*pa.html</mask>
+      <mask>*page.html</mask>
+      <mask>*page..html</mask>
+      <mask>*page.co.html</mask>
+      <mask>*page.com.html</mask>
+      <mask>*page.compo.html</mask>
+      <mask>*page.componen.html</mask>
+      <mask>*page.component.html</mask>
     </recentFileMasks>
   </component>
 </application>
