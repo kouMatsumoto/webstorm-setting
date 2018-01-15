@@ -115,7 +115,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:bitbankinc/broker-app-stream-public.git" />
+          <option name="url" value="git@bitbucket.org:bitbank/broker-static-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

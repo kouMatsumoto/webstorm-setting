@@ -5,37 +5,38 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*page.component.html" />
     <recentFileMasks>
-      <mask>**/pages/**component.ts</mask>
-      <mask>**/pages/**/component.ts</mask>
-      <mask>**/pages/**/*component.ts</mask>
-      <mask>**/pages/**/*.component.ts</mask>
-      <mask>.</mask>
-      <mask>.ser</mask>
-      <mask>.serv</mask>
-      <mask>.servi</mask>
-      <mask>.servic</mask>
-      <mask>.service</mask>
-      <mask>.service.</mask>
-      <mask>.service.ts</mask>
-      <mask>*.service.ts</mask>
-      <mask>/**/*.service.ts</mask>
-      <mask>**/*.service.ts</mask>
-      <mask>**/.service.ts</mask>
-      <mask>**.service.ts</mask>
-      <mask>**.service.t</mask>
-      <mask>**.servi</mask>
-      <mask>**.serv</mask>
-      <mask>**.ser</mask>
-      <mask>**.se</mask>
-      <mask>**.css</mask>
-      <mask>**.cs</mask>
-      <mask>**.c</mask>
-      <mask>**.</mask>
-      <mask>**.s</mask>
-      <mask>**.sc</mask>
-      <mask>**.scs</mask>
-      <mask>**.scss</mask>
+      <mask>rout</mask>
+      <mask>routi</mask>
+      <mask>routin</mask>
+      <mask>routing</mask>
+      <mask>routing.</mask>
+      <mask>routing.mo</mask>
+      <mask>routing.modu</mask>
+      <mask>routing.modul</mask>
+      <mask>routing.module</mask>
+      <mask>routing.module.</mask>
+      <mask>routing.module.ts</mask>
+      <mask>**/*/routing.module.ts</mask>
+      <mask>**/*routing.module.ts</mask>
+      <mask>**/routing.module.ts</mask>
+      <mask>**routing.module.ts</mask>
+      <mask>*routing.module.ts</mask>
+      <mask>h</mask>
+      <mask>ht</mask>
+      <mask>html</mask>
+      <mask>*html</mask>
+      <mask>*.html</mask>
+      <mask>*p.html</mask>
+      <mask>*pa.html</mask>
+      <mask>*page.html</mask>
+      <mask>*page..html</mask>
+      <mask>*page.co.html</mask>
+      <mask>*page.com.html</mask>
+      <mask>*page.compo.html</mask>
+      <mask>*page.componen.html</mask>
+      <mask>*page.component.html</mask>
     </recentFileMasks>
   </component>
 </application>
