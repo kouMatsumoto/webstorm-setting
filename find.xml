@@ -2,21 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*page.component.html" />
     <recentFileMasks>
-      <mask>rout</mask>
-      <mask>routi</mask>
-      <mask>routin</mask>
-      <mask>routing</mask>
-      <mask>routing.</mask>
-      <mask>routing.mo</mask>
-      <mask>routing.modu</mask>
-      <mask>routing.modul</mask>
-      <mask>routing.module</mask>
-      <mask>routing.module.</mask>
       <mask>routing.module.ts</mask>
       <mask>**/*/routing.module.ts</mask>
       <mask>**/*routing.module.ts</mask>
@@ -37,6 +24,16 @@
       <mask>*page.compo.html</mask>
       <mask>*page.componen.html</mask>
       <mask>*page.component.html</mask>
+      <mask>.</mask>
+      <mask>.m</mask>
+      <mask>.mo</mask>
+      <mask>.mod</mask>
+      <mask>.modu</mask>
+      <mask>.modul</mask>
+      <mask>.module</mask>
+      <mask>.module.</mask>
+      <mask>.module.t</mask>
+      <mask>.module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
