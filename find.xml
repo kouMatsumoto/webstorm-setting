@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>routing.module.ts</mask>
-      <mask>**/*/routing.module.ts</mask>
       <mask>**/*routing.module.ts</mask>
       <mask>**/routing.module.ts</mask>
       <mask>**routing.module.ts</mask>
@@ -14,7 +12,6 @@
       <mask>ht</mask>
       <mask>html</mask>
       <mask>*html</mask>
-      <mask>*.html</mask>
       <mask>*p.html</mask>
       <mask>*pa.html</mask>
       <mask>*page.html</mask>
@@ -24,7 +21,6 @@
       <mask>*page.compo.html</mask>
       <mask>*page.componen.html</mask>
       <mask>*page.component.html</mask>
-      <mask>.</mask>
       <mask>.m</mask>
       <mask>.mo</mask>
       <mask>.mod</mask>
@@ -34,6 +30,10 @@
       <mask>.module.</mask>
       <mask>.module.t</mask>
       <mask>.module.ts</mask>
+      <mask>.</mask>
+      <mask>.h</mask>
+      <mask>.html</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
