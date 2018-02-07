@@ -3,20 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <recentFileMasks>
-      <mask>**/*routing.module.ts</mask>
-      <mask>**/routing.module.ts</mask>
-      <mask>**routing.module.ts</mask>
-      <mask>*routing.module.ts</mask>
-      <mask>h</mask>
-      <mask>ht</mask>
-      <mask>html</mask>
-      <mask>*html</mask>
-      <mask>*p.html</mask>
-      <mask>*pa.html</mask>
-      <mask>*page.html</mask>
-      <mask>*page..html</mask>
-      <mask>*page.co.html</mask>
       <mask>*page.com.html</mask>
       <mask>*page.compo.html</mask>
       <mask>*page.componen.html</mask>
@@ -34,6 +22,19 @@
       <mask>.h</mask>
       <mask>.html</mask>
       <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sp</mask>
+      <mask>*.spe</mask>
+      <mask>*.spec</mask>
+      <mask>*.spec.</mask>
+      <mask>**.spec.ts</mask>
+      <mask>*/*.spec.ts</mask>
+      <mask>**/**.spec.ts</mask>
+      <mask>**/*.spec.ts</mask>
+      <mask>***.spec.ts</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
