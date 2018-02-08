@@ -3,11 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <recentFileMasks>
-      <mask>*page.componen.html</mask>
-      <mask>*page.component.html</mask>
-      <mask>.m</mask>
       <mask>.mo</mask>
       <mask>.mod</mask>
       <mask>.modu</mask>
@@ -32,9 +29,12 @@
       <mask>**/**.spec.ts</mask>
       <mask>**/*.spec.ts</mask>
       <mask>***.spec.ts</mask>
-      <mask>*.spec.ts</mask>
-      <mask>*..ts</mask>
       <mask>*.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*.sp.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
