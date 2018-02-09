@@ -4,21 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>.mo</mask>
-      <mask>.mod</mask>
-      <mask>.modu</mask>
-      <mask>.modul</mask>
-      <mask>.module</mask>
-      <mask>.module.</mask>
-      <mask>.module.t</mask>
-      <mask>.module.ts</mask>
-      <mask>.</mask>
-      <mask>.h</mask>
-      <mask>.html</mask>
-      <mask>*.html</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sp</mask>
       <mask>*.spe</mask>
       <mask>*.spec</mask>
@@ -34,6 +19,21 @@
       <mask>*.sp.ts</mask>
       <mask>*.spe.ts</mask>
       <mask>*.spec.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.component.html</mask>
+      <mask>*.componen.html</mask>
+      <mask>*.compone.html</mask>
+      <mask>*.compon.html</mask>
+      <mask>*.compo.html</mask>
+      <mask>*.comp.html</mask>
+      <mask>*.com.html</mask>
+      <mask>*.co.html</mask>
+      <mask>*.c.html</mask>
+      <mask>*..html</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
