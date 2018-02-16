@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="index" type="HTML" />
+      <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".htmllintrc" type="JSON" />
       <mapping ext="org" type="JSON" />
