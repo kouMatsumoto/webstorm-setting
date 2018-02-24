@@ -115,7 +115,31 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com-bb:bitbankinc/broker-app-web.git" />
+          <option name="url" value="git@bitbucket.org:bitbank/broker-static-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:bitbankinc/broker-app-bank-risona.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com-bb:bitbankinc/broker-app-bank-risona.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com-bb:bitbankinc/broker-trade-application-e2e-runner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kouMatsumoto/rxjs-sandbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:bitbankinc/broker-trade-application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:bitbankinc/broker-trade-application-cordova.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -124,5 +148,8 @@
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>

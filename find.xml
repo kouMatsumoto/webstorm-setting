@@ -1,41 +1,43 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>**/pages/**component.ts</mask>
-      <mask>**/pages/**/component.ts</mask>
-      <mask>**/pages/**/*component.ts</mask>
-      <mask>**/pages/**/*.component.ts</mask>
-      <mask>.</mask>
-      <mask>.ser</mask>
-      <mask>.serv</mask>
-      <mask>.servi</mask>
-      <mask>.servic</mask>
-      <mask>.service</mask>
-      <mask>.service.</mask>
-      <mask>.service.ts</mask>
-      <mask>*.service.ts</mask>
-      <mask>/**/*.service.ts</mask>
-      <mask>**/*.service.ts</mask>
-      <mask>**/.service.ts</mask>
-      <mask>**.service.ts</mask>
-      <mask>**.service.t</mask>
-      <mask>**.servi</mask>
-      <mask>**.serv</mask>
-      <mask>**.ser</mask>
-      <mask>**.se</mask>
-      <mask>**.css</mask>
-      <mask>**.cs</mask>
-      <mask>**.c</mask>
-      <mask>**.</mask>
-      <mask>**.s</mask>
-      <mask>**.sc</mask>
-      <mask>**.scs</mask>
-      <mask>**.scss</mask>
+      <mask>**/**.spec.ts</mask>
+      <mask>**/*.spec.ts</mask>
+      <mask>***.spec.ts</mask>
+      <mask>*.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*.sp.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*</mask>
+      <mask>*.component.html</mask>
+      <mask>*.componen.html</mask>
+      <mask>*.compone.html</mask>
+      <mask>*.compon.html</mask>
+      <mask>*.compo.html</mask>
+      <mask>*.comp.html</mask>
+      <mask>*.com.html</mask>
+      <mask>*.co.html</mask>
+      <mask>*.c.html</mask>
+      <mask>*..html</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sp</mask>
+      <mask>*.spe</mask>
+      <mask>*.spec</mask>
+      <mask>*.spec.</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
