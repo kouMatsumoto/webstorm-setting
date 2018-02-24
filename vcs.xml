@@ -114,6 +114,10 @@
           <option name="url" value="git@github.com:ReactiveX/rxjs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com-bb:bitbankinc/broker-app-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
