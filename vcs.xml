@@ -162,6 +162,10 @@
           <option name="url" value="git@github.com:kouMatsumoto/ts-test-20180408.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@my.github.com:kouMatsumoto/mokumoku-2018-04-18.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
