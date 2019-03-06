@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.2" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="isWizardShown" value="true" />
     <option name="accentColor" value="80cbc4" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="-4a3fc28f:164322c91a8:-7fff" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
